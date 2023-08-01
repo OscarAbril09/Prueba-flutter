@@ -42,7 +42,8 @@ class _LoginState extends State<Login> {
                   ),
                   labelText: 'Correo Electronico',
                   labelStyle: TextStyle(
-                    color: Colors.white, // Establecer color de etiqueta
+                    color: Colors.white,
+                    fontFamily: 'MonaR', // Establecer color de etiqueta
                   ),
                 ),
               ),
@@ -65,7 +66,8 @@ class _LoginState extends State<Login> {
                   ),
                   labelText: 'Constraseña',
                   labelStyle: TextStyle(
-                    color: Colors.white, // Establecer color de etiqueta
+                    color: Colors.white,
+                    fontFamily: 'MonaR', // Establecer color de etiqueta
                   ),
                 ),
               ),

@@ -110,6 +110,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_custom_cards:
+    dependency: "direct main"
+    description:
+      name: flutter_custom_cards
+      sha256: c8eb7f991e06c72e971200828a4834602644df8ca40621a12f50bf239460d20b
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.1"
+  flutter_gif:
+    dependency: "direct main"
+    description:
+      name: flutter_gif
+      sha256: b13d7e484e40685e9236ffbaddf012c2448a2e2c1ac48bed345184dd7bc87f88
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -136,6 +152,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  gif:
+    dependency: "direct main"
+    description:
+      name: gif
+      sha256: "1298db27c4edc82f13479f50363895e557079164af368f5e09a858726b0f1e9a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.0"
   hero_button:
     dependency: "direct main"
     description:
